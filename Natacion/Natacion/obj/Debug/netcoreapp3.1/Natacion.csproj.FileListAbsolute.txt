@@ -1,0 +1,13 @@
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\bin\Debug\netcoreapp3.1\Natacion.exe
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\bin\Debug\netcoreapp3.1\Natacion.deps.json
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\bin\Debug\netcoreapp3.1\Natacion.runtimeconfig.json
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\bin\Debug\netcoreapp3.1\Natacion.runtimeconfig.dev.json
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\bin\Debug\netcoreapp3.1\Natacion.dll
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\bin\Debug\netcoreapp3.1\Natacion.pdb
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\obj\Debug\netcoreapp3.1\Natacion.csprojAssemblyReference.cache
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\obj\Debug\netcoreapp3.1\Natacion.AssemblyInfoInputs.cache
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\obj\Debug\netcoreapp3.1\Natacion.AssemblyInfo.cs
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\obj\Debug\netcoreapp3.1\Natacion.csproj.CoreCompileInputs.cache
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\obj\Debug\netcoreapp3.1\Natacion.dll
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\obj\Debug\netcoreapp3.1\Natacion.pdb
+C:\Users\jm_mo\Source\Repos\Natacion\Natacion\obj\Debug\netcoreapp3.1\Natacion.genruntimeconfig.cache
